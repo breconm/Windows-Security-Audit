@@ -1,6 +1,6 @@
 # Windows Security Audit Script (PowerShell)
 
-This project is a PowerShell-based Windows security audit tool created by Brecon N., a cybersecurity student. The script performs a local audit of key system security settings and outputs easy-to-read results for basic hardening and awareness.
+This project is a PowerShell-based Windows security audit tool created by Brecon Ndamamjoh, a cybersecurity student. The script performs a local audit of key system security settings and outputs easy-to-read results for basic hardening and awareness.
 
 ## 🔍 What It Checks
 
@@ -31,5 +31,5 @@ Each section outputs results with ✅ (secure), ❌ (at risk), or ⚠️ (not su
 
 ## 🔐 Author
 
-Created by Brecon N. | Cybersecurity Student @ Oakland Community College  
+Created by Brecon Ndamamjoh | Cybersecurity Student @ Oakland Community College  
 Project goal: Build hands-on auditing skills, system hardening awareness, and portfolio-ready tooling.
