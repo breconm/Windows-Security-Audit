@@ -18,7 +18,7 @@ This project is a PowerShell-based Windows security audit tool created by Brecon
 2. Navigate to the script directory (e.g. `cd ~\Desktop`).
 3. Temporarily allow execution:
    ```powershell
-   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+   Set - ExecutionPolicy - Scope Process - ExecutionPolicy Bypass
    ```
 4. Run the script:
    ```powershell
