@@ -4,15 +4,15 @@ This project is a PowerShell-based Windows security audit tool created by Brecon
 
 ## 🔍 What It Checks
 
-- ✅ Windows Defender Status
-- 🔥 Windows Firewall (Domain, Private, Public profiles)
-- 🔐 Password Policy (length, expiration, lockout)
-- 👤 Local Administrator Accounts
-- 🧑‍🦲 Guest Account Status
-- 🖥️ Remote Desktop Access
-- 🔐 BitLocker Drive Encryption (if supported)
+- Windows Defender Status
+- Windows Firewall (Domain, Private, Public profiles)
+- Password Policy (length, expiration, lockout)
+- Local Administrator Accounts
+- Guest Account Status
+- Remote Desktop Access
+- BitLocker Drive Encryption (if supported)
 
-## 🚀 How to Run
+## How to Run
 
 1. Open PowerShell as Administrator.
 2. Navigate to the script directory (e.g. `cd ~\Desktop`).
@@ -25,11 +25,11 @@ This project is a PowerShell-based Windows security audit tool created by Brecon
    .\AuditScript.ps1
    ```
 
-## 📋 Output Sample
+## Output Sample
 
 Each section outputs results with ✅ (secure), ❌ (at risk), or ⚠️ (not supported). The script ends with a prompt to press ENTER so results stay visible.
 
-## 🔐 Author
+## Author
 
 Created by Brecon Ndamamjoh | Cybersecurity Student @ Oakland Community College  
 Project goal: Build hands-on auditing skills, system hardening awareness, and portfolio-ready tooling.
